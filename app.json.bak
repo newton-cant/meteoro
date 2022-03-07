@@ -1,0 +1,16 @@
+{
+    "name":"Supra Bot",
+    "description": "Supra bot",
+   
+    "repository":"https://github.com/ErnestoAbelha/suprabot1",
+    "buildpacks": [
+{
+    "url":"heroku/nodejs"
+   },
+{
+    "url":"https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+   },
+{
+    "url":"https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+   }]
+}
