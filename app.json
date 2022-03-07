@@ -2,7 +2,7 @@
     "name":"Supra Bot",
     "description": "Supra bot",
    
-    "repository":"https://github.com/Supraofc/suprabot1-",
+    "repository":"https://github.com/newton-cant/meteoro",
     "buildpacks": [
 {
     "url":"heroku/nodejs"
